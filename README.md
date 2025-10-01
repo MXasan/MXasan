@@ -3,7 +3,7 @@
 ###
 
 
-🚀 Frontend Developer, passionate about building user-friendly and visually appealing web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React, HTML, CSS, Bootstrap.<br>🎨 I love coding and designing to bring creative ideas to life.<br>🎯 Goal: Become the best programmer in Uzbekistan and study at Inha University.<br>📫 Contact me: Email | Telegram (@MvXasan)
+🚀 Frontend Developer, passionate about building user-friendly and visually appealing web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React, HTML, CSS, Bootstrap.<br>🎨 I love coding and designing to bring creative ideas to life.<br>🎯 Goal: Become the best programmer in Uzbekistan.<br>📫 Contact: Telegram (@MvXasan)
 
 
 
@@ -44,11 +44,11 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+</div> -->
 
 ###
 
@@ -62,7 +62,7 @@
 
 ###
 
-<p align="left">🎓 Studying at RS School & preparing for Inha UniversityHello <br><br>🛠️ Building interactive and user-friendly web applications</p>
+<p align="left">🎓 Studying at RS School & ITPU </p>
 
 ###
 
