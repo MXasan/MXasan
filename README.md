@@ -57,13 +57,3 @@
 ###
 
 <br clear="both">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<img align="right" height="178" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-![](https://github-contributor-stats.vercel.app/api?username=MXasan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MXasan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-###
