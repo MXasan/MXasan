@@ -42,12 +42,6 @@
 
 ###
 
-###
-
-<p align="left">💻 Currently working on my portfolio🛠️ Building interactive and user-friendly web applications</p>
-
-###
-
 
 
 ###
