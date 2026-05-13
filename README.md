@@ -6,7 +6,7 @@
 🚀 Frontend Developer, passionate about building user-friendly and visually appealing web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React, HTML, CSS, Bootstrap.<br>🎨 I love coding and designing to bring creative ideas to life.<br>🎯 Goal: Become the best programmer in Uzbekistan.<br>📫 Contact: Telegram (@mvxasan)
 
 ###
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   <img width="18" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-</div>
+</div> -->
 
 ###
 
