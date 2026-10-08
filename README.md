@@ -1,9 +1,9 @@
-<h2 align="left">Hi 👋! My name is Xasan and I'm a Fronted developer, from Uzbekistan</h2>
+<h2 align="left">Hi 👋! My name is Xasan and I'm a Software developer, from Uzbekistan</h2>
 
 ###
 
 
-🚀 Frontend Developer, passionate about building user-friendly and visually appealing web applications.<br>💻 Tech Stack: JavaScript, TypeScript, React, HTML, CSS, Bootstrap.<br>🎨 I love coding and designing to bring creative ideas to life.<br>🎯 Goal: Become the best programmer in Uzbekistan.<br>📫 Contact: Telegram (@mvxasan)
+🚀 Software Developer, passionate about building user-friendly and visually appealing web applications.<br>💻 Tech Stack: JavaScript, Python, TypeScript, React Bootstrap.<br>🎨 I love coding and designing to bring creative ideas to life.<br>🎯 Goal: Become the best programmer in Uzbekistan.<br>📫 Contact: Telegram (@mvxasan)
 
 ###
 <!-- <div align="left">
